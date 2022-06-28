@@ -1,0 +1,44 @@
+p {
+    font-size: 30px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    text-align: center;
+}
+
+body{
+    background-color:hsl(212, 45%, 89%);
+}
+
+.container {
+    background-color: white;
+    margin: auto;
+    width: 35%;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    border-radius: 15px;
+}
+
+
+
+#improve{
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+}
+
+#scan {
+    font-weight: 400;
+    font-size: 25px;
+}
+
+.content {
+    
+    padding: 15px;
+}
+
+img {
+    margin: auto ;
+    width: 100%;
+    border-radius: 20px;
+    
+}
